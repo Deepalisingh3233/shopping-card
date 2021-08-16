@@ -1,0 +1,27 @@
+.card{
+    border: 1px solid lightgray;
+    margin:20px;
+    padding:10px;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+.d-flex{
+    display: flex;
+}
+.img-responsive{
+    width:250px;
+    height:300px;
+    object-fit: cover;
+    border-radius: 20px;
+    transform: rotate(-2deg);
+}
+.content{
+    margin:20px;
+}
+.btn{
+    text-decoration: none;
+    background-color: #000;
+    padding:8px 20px 8px 20px;
+    color:white;
+    border-radius: 20px;
+}
